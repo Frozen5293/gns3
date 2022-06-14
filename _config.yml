@@ -1,0 +1,14 @@
+title: 站点名
+email: 地址@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  描述
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: twitter
+github_username:  github
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-remote-theme
